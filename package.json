@@ -1,0 +1,23 @@
+{
+  "name": "gulp-scaffold",
+  "version": "1.0.0",
+  "description": "for create gulp project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windsolider/gulp-scaffold.git"
+  },
+  "keywords": [
+    "gulp",
+    "scaffold"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/windsolider/gulp-scaffold/issues"
+  },
+  "homepage": "https://github.com/windsolider/gulp-scaffold#readme"
+}
